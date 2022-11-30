@@ -8,7 +8,7 @@ def welcome():
 def main():
   st.title("Multiplication app")
   html_temp = """
-  <div style="background-color:tomato;padding:10px">
+  <div style="background-color:green;padding:10px">
   <h2 style="color:white;text-align:center;">Multiplication of 2 numbers using Streamlit</h2>
   </div>
   """
